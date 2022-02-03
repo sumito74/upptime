@@ -18,6 +18,9 @@ sites:
   - name: CLOUD HOME
     url: https://nextcloud.diegorende.com.ar
 
+assignees: # Users to assign downtime issues (optional)
+  - sumito74
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
