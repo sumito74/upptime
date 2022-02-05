@@ -4,19 +4,19 @@
     "url": "https://mail.ospaca.com",
     "icon": "https://favicons.githubusercontent.com/mail.ospaca.com",
     "slug": "mals-ospaca",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 941,
-    "timeDay": 907,
-    "timeWeek": 941,
-    "timeMonth": 941,
-    "timeYear": 941,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 925,
+    "timeDay": 860,
+    "timeWeek": 925,
+    "timeMonth": 925,
+    "timeYear": 925,
     "dailyMinutesDown": {
-      "2022-02-05": 1
+      "2022-02-05": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://sistema.ospaca.com/intranet",
     "icon": "https://favicons.githubusercontent.com/sistema.ospaca.com",
     "slug": "sistemas-ospaca",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 855,
-    "timeDay": 845,
-    "timeWeek": 855,
-    "timeMonth": 855,
-    "timeYear": 855,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 848,
+    "timeDay": 818,
+    "timeWeek": 848,
+    "timeMonth": 848,
+    "timeYear": 848,
     "dailyMinutesDown": {
-      "2022-02-05": 0
+      "2022-02-05": 11
     }
   },
   {
