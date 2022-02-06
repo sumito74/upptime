@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 912,
-    "timeDay": 844,
+    "timeDay": 766,
     "timeWeek": 912,
     "timeMonth": 912,
     "timeYear": 912,
@@ -112,17 +112,19 @@
     "url": "https://nextcloud.diegorende.com.ar",
     "icon": "https://favicons.githubusercontent.com/nextcloud.diegorende.com.ar",
     "slug": "cloud-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1045,
-    "timeDay": 991,
-    "timeWeek": 1045,
-    "timeMonth": 1045,
-    "timeYear": 1045,
-    "dailyMinutesDown": {}
+    "time": 993,
+    "timeDay": 735,
+    "timeWeek": 993,
+    "timeMonth": 993,
+    "timeYear": 993,
+    "dailyMinutesDown": {
+      "2022-02-06": 0
+    }
   }
 ]
