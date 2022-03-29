@@ -6,7 +6,7 @@
     "slug": "mals-ospaca",
     "status": "up",
     "uptime": "92.59%",
-    "uptimeDay": "80.63%",
+    "uptimeDay": "81.49%",
     "uptimeWeek": "52.29%",
     "uptimeMonth": "87.31%",
     "uptimeYear": "92.59%",
@@ -90,16 +90,16 @@
     "url": "https://www.royalholiday.com.ar/reservas/admin/",
     "icon": "https://favicons.githubusercontent.com/www.royalholiday.com.ar",
     "slug": "sistema-royal-holiday",
-    "status": "up",
-    "uptime": "95.91%",
-    "uptimeDay": "86.25%",
+    "status": "down",
+    "uptime": "95.93%",
+    "uptimeDay": "86.24%",
     "uptimeWeek": "82.83%",
-    "uptimeMonth": "92.78%",
-    "uptimeYear": "95.91%",
+    "uptimeMonth": "92.81%",
+    "uptimeYear": "95.93%",
     "time": 1510,
     "timeDay": 3016,
     "timeWeek": 1481,
-    "timeMonth": 1548,
+    "timeMonth": 1551,
     "timeYear": 1510,
     "dailyMinutesDown": {
       "2022-03-29": 144,
@@ -115,7 +115,7 @@
       "2022-03-19": 276,
       "2022-03-18": 134,
       "2022-03-17": 367,
-      "2022-03-16": 139
+      "2022-03-16": 123
     }
   },
   {
