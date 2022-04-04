@@ -1,7 +1,7 @@
 url: https://nextcloud.diegorende.com.ar
-status: up
-code: 200
-responseTime: 1812
-lastUpdated: 2022-04-04T03:58:53.325Z
+status: down
+code: 503
+responseTime: 738
+lastUpdated: 2022-04-04T12:55:27.931Z
 startTime: Thu Feb 03 2022 14:54:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
