@@ -100,9 +100,9 @@
     "slug": "sistema-royal-holiday",
     "status": "up",
     "uptime": "97.20%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "84.37%",
-    "uptimeMonth": "92.16%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "84.48%",
+    "uptimeMonth": "92.13%",
     "uptimeYear": "97.20%",
     "time": 1745,
     "timeDay": 2360,
@@ -110,7 +110,7 @@
     "timeMonth": 2055,
     "timeYear": 1745,
     "dailyMinutesDown": {
-      "2022-04-29": 32,
+      "2022-04-29": 21,
       "2022-04-28": 339,
       "2022-04-27": 119,
       "2022-04-26": 141,
@@ -124,7 +124,7 @@
       "2022-04-18": 268,
       "2022-04-17": 279,
       "2022-04-16": 173,
-      "2022-04-15": 51
+      "2022-04-15": 74
     }
   },
   {
@@ -176,11 +176,11 @@
     "icon": "https://favicons.githubusercontent.com/nextcloud.diegorende.com.ar",
     "slug": "cloud-home",
     "status": "up",
-    "uptime": "90.44%",
+    "uptime": "90.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "92.24%",
-    "uptimeYear": "90.44%",
+    "uptimeYear": "90.45%",
     "time": 1326,
     "timeDay": 981,
     "timeWeek": 1241,
