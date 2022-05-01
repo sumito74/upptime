@@ -98,12 +98,12 @@
     "url": "https://www.royalholiday.com.ar/reservas/admin/",
     "icon": "https://favicons.githubusercontent.com/www.royalholiday.com.ar",
     "slug": "sistema-royal-holiday",
-    "status": "up",
-    "uptime": "97.27%",
-    "uptimeDay": "94.75%",
-    "uptimeWeek": "88.30%",
-    "uptimeMonth": "92.19%",
-    "uptimeYear": "97.27%",
+    "status": "down",
+    "uptime": "97.29%",
+    "uptimeDay": "94.73%",
+    "uptimeWeek": "88.29%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "97.29%",
     "time": 1736,
     "timeDay": 1131,
     "timeWeek": 1817,
@@ -125,7 +125,7 @@
       "2022-04-19": 201,
       "2022-04-18": 268,
       "2022-04-17": 279,
-      "2022-04-16": 38
+      "2022-04-16": 15
     }
   },
   {
