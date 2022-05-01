@@ -1,7 +1,7 @@
 url: https://mail.diegorende.com.ar
-status: up
-code: 200
-responseTime: 1796
-lastUpdated: 2022-04-30T23:16:06.861Z
+status: down
+code: 503
+responseTime: 619
+lastUpdated: 2022-05-01T02:37:10.787Z
 startTime: Thu Feb 03 2022 14:54:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
