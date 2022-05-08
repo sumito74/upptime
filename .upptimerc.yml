@@ -9,14 +9,14 @@ sites:
     url: https://sistema.ospaca.com/intranet
   - name: QR ROYAL-HOLIDAY
     url: https://cupones.royalholiday.com.ar/admin/
-  - name: SISTEMA ROYAL-HOLIDAY
-    url: https://www.royalholiday.com.ar/reservas/admin/
+  #- name: SISTEMA ROYAL-HOLIDAY
+  #  url: https://www.royalholiday.com.ar/reservas/admin/
   - name: SISTEMA ROYAL-HOLIDAY CHILE
     url: https://chile.royalholiday.com.ar:1443/reservas/admin/
-  - name: MAIL HOME
-    url: https://mail.diegorende.com.ar
-  - name: CLOUD HOME
-    url: https://nextcloud.diegorende.com.ar
+  #- name: MAIL HOME
+  #  url: https://mail.diegorende.com.ar
+  #- name: CLOUD HOME
+  #  url: https://nextcloud.diegorende.com.ar
 
 assignees: # Users to assign downtime issues (optional)
   - sumito74
